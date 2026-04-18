@@ -1,2 +1,2 @@
 - 🔭 I’m currently working on my first full sized game!
-- 🌱 I’m currently learning C# and System Management
+- 🌱 I’m currently learning C# and Network Management
