@@ -1,2 +1,2 @@
-- 🔭 I’m currently working on my first full sized game!
-- 🌱 I’m currently learning C# and Network Management
+- 🔭 I’m currently working on my Minecraft modding Skills!
+- 🌱 I’m currently learning PHP and Java
