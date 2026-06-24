@@ -1,2 +1,2 @@
-- 🔭 I’m currently working on my Minecraft modding Skills!
+- 🔭 I’m currently working on my First Java game!
 - 🌱 I’m currently learning PHP and Java
